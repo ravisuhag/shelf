@@ -1,6 +1,6 @@
 # Awesome Images
 
-> A curated list of awesome lists
+> A curated list of awesome free stock images
 
 
 ## Free Stock Images
