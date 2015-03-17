@@ -22,7 +22,7 @@
 - [Get Refe](http://getrefe.tumblr.com/)
 - [lockandstockphotos](http://lockandstockphotos.com/)
 - [snapwiresnaps](http://snapwiresnaps.tumblr.com/)
-- [snapwiresnaps](http://jaymantri.com/)
+- [Jaymantri](http://jaymantri.com/)
 
 
 
