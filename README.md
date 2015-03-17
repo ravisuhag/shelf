@@ -9,6 +9,7 @@
 - [Little Visuals](http://littlevisuals.co/)
 - [Twnsnd](http://nos.twnsnd.co/)
 - [Dot Spin](http://www.dotspin.com/the-commons/)
+- [Foodie's Feed] (http://foodiesfeed.com/)
 - [deathtothestockphoto](http://join.deathtothestockphoto.com/)
 - [We Function](http://wefunction.com/category/free-photos/)
 - [Freepix](http://freepix.eu/)
