@@ -2,14 +2,21 @@
 
 > A curated list of awesome free stock images sites
 
-
 ## Free Stock Images
 
 - [Unsplash](http://www.unsplash.com)
+- [Open Photo](http://openphoto.net/)
+- [Morgue File](http://www.morguefile.com/)
+- [Unprofound](http://www.unprofound.com/)
+- [Free range stock](http://freerangestock.com/)
+- [Public Domain Archive](http://publicdomainarchive.com/)
+- [Photogen](http://www.photogen.com/)
+- [Pixabay](http://pixabay.com/)
+- [Public Domain Photos](http://www.public-domain-photos.com/)
 - [Little Visuals](http://littlevisuals.co/)
 - [Twnsnd](http://nos.twnsnd.co/)
 - [Dot Spin](http://www.dotspin.com/the-commons/)
-- [Foodie's Feed] (http://foodiesfeed.com/)
+- [Foodie's Feed](http://foodiesfeed.com/)
 - [deathtothestockphoto](http://join.deathtothestockphoto.com/)
 - [We Function](http://wefunction.com/category/free-photos/)
 - [Freepix](http://freepix.eu/)
