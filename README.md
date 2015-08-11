@@ -31,6 +31,8 @@
 - [snapwiresnaps](http://snapwiresnaps.tumblr.com/)
 - [Jaymantri](http://jaymantri.com/)
 
+## Icons 
+- [Prestashop Pack](http://build.prestashop.com/icon-pack)
 
 
 
