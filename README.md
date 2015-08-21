@@ -2,6 +2,9 @@
 
 > A curated list of awesome free stock images sites
 
+## Collections 
+- [Product Hunt collection](http://www.producthunt.com/@brandonjgeo/collections/stockstuff)
+
 ## Free Stock Images
 - [Skuawk](http://skuawk.com/)
 - [Unsplash](http://www.unsplash.com)
