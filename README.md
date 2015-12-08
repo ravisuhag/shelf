@@ -37,6 +37,7 @@
 
 ## Icons 
 - [Prestashop Pack](http://build.prestashop.com/icon-pack)
+- [Nova](http://www.webalys.com/nova/)
 
 
 
