@@ -1,4 +1,4 @@
-# Stockfree
+# Stockfree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <img align="right" height="150" src="icon.jpg">
 > The word design is everything and nothing. The design and the product itself are inseparable. Strong design is based on strong imagery. Unfortunately, strong imagery requires a good photographer and that costs money. In the past we were limited to stock photography sites that charge a lot or absolutely terrible free stock photography that cost you conversions but things have chnaged and we have this ultimate collection of free  images for you. 
 
