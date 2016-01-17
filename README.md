@@ -22,7 +22,7 @@
 - [Jaymantri](http://jaymantri.com/) - 7 new photos released every Thursday under the Creative Commons CC0 license
 - [Tookapic Stock](https://stock.tookapic.com/?filter=free) - Tookapic stock is a marketplace for both free & premium stock photos.
 - [Je Shoots](http://jeshoots.com/) - Cool & free photos for You! Photos for business or personal use in high resolution for free.
-- [Cupcake](http://cupcake.nilssonlee.se/) - All photos here on www.cupcake.nilssonlee.se are licensed under the Creative Commons license CC0,
+- [Cupcake](http://cupcake.nilssonlee.se/) - All photos here on cupcake are licensed under the Creative Commons license CC0,
 - [Shutteroo](http://shutteroo.com/) - Free images, no worries
 - [Huney](http://huney.co/) - Free High Resolution Photos
 - [MMT](http://mmt.li/) - MMT is an up-and-coming free stock photography site run by Jeffrey Betts. 
