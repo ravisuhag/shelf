@@ -79,7 +79,6 @@
 - [Valle Studio](http://vallestudio.com/) - Free stock images
 - [Lobster](http://lobster.media/marketplace) - Find the perfect one for you and get it from areal person.
 
-
 # Videos 
 - [Creative Common Videos](https://creativecommons.org/videos/)
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage
@@ -91,7 +90,6 @@
 - [Maker TV](http://www.maker.tv/)
 - [VideoBlocks](https://www.videoblocks.com) - Unlimited downloads of stock video & motion backgrounds]
 - [Fancy Footage Club](http://fancyfootage.club/) - Looping, royalty-free videos for your next design project.
-
 
 Note: Some of these sites also provide premium content. Please search and look for CC license. 
 
@@ -108,11 +106,13 @@ Note: Some of these sites also provide premium content. Please search and look f
 ## Logos 
 - [Logo Dust](http://logodust.com/) - Free logo designs for your projects, added every week
 
-
-
 ## Collections 
 - [Product Hunt collection](http://www.producthunt.com/@brandonjgeo/collections/stockstuff)
 
+## License
 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ravi Suhag](http://ravisuhag.com) has waived all copyright and related or neighboring rights to this work.
 
 
