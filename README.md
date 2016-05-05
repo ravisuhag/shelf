@@ -108,6 +108,9 @@ Note: Some of these sites also provide premium content. Please search and look f
 ## Logos 
 - [Logo Dust](http://logodust.com/) - Free logo designs for your projects, added every week
 
+## Fonts
+- [Lost Type](http://www.losttype.com/) - Lost Type is a Collaborative Digital Type Foundry
+
 ## Collections 
 - [Product Hunt collection](http://www.producthunt.com/@brandonjgeo/collections/stockstuff)
 
