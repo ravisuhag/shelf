@@ -80,6 +80,7 @@
 - [Valle Studio](http://vallestudio.com/) - Free stock images
 - [Lobster](http://lobster.media/marketplace) - Find the perfect one for you and get it from areal person.
 - [Good Free Photos](https://www.goodfreephotos.com) - Thousands of public domain stock photo categorized by geographic location.
+- [Altphotos](https://altphotos.com) - Handpicked free (CC0-licensed) high-resolution photos added daily.
 
 # Videos 
 - [Creative Common Videos](https://creativecommons.org/videos/)
