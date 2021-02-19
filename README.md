@@ -7,7 +7,11 @@ Curated articles and papers about technology
 - [How Doordash is scaling its data platform](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/)
 - [Emerging Architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
  
+### ML Platform
+- [DoorDash’s ML Platform - The Beginning ](https://doordash.engineering/2020/04/23/doordash-ml-platform-the-beginning/)
 
+### Experimentation Platform
+- []()
 
 ### Engineering Blogs
 - [Twitter](https://blog.twitter.com/engineering/en_us.html)
