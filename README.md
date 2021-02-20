@@ -13,6 +13,10 @@ Curated articles and papers about technology
 ### Experimentation Platform
 - []()
 
+### Metric Framework 
+- [uMetric](https://eng.uber.com/umetric/)
+- [Democratizing Metric Definition and Discovery | Airbnb](https://www.youtube.com/watch?v=rpgBge-qJnM)
+
 ### Engineering Blogs
 - [Twitter](https://blog.twitter.com/engineering/en_us.html)
 - [Netflix](https://netflixtechblog.com/?gi=897568af33e8)
@@ -21,3 +25,4 @@ Curated articles and papers about technology
 - [Segment](https://segment.com/blog/engineering/)
 - [Dropbox](https://dropbox.tech/)
 - [Spotify](https://engineering.atspotify.com/)
+- [Medium](https://medium.engineering/)
