@@ -38,7 +38,13 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Google Cloud Storage]()
 
 ### Feature Stores
-- []()
+- [Hopsworks](https://github.com/logicalclocks/hopsworks)
+- [Michelangelo](https://eng.uber.com/michelangelo-model-representation/)
+- [Feast](https://github.com/gojek/feast)
+- [Conde Nast](https://technology.condenast.com/story/accelerating-machine-learning-with-the-feature-store-service)
+- [Zipline](https://www.topbots.com/zipline-data-management-framework-by-airbnb/)
+- [Metaflow](https://www.youtube.com/watch?v=fOSZuONmLbA&feature=youtu.be)
+- [Ignuazio Fature Store](https://www.iguazio.com/featurestore/)
 
 ### Data Management
 - [Amundsen]()
@@ -46,3 +52,5 @@ This landscape is intended as a map to explore open source urban computing proje
 
 ### SASS
 - [Data Bricks](https://databricks.com/)
+
+
