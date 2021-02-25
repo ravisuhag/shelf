@@ -2,6 +2,9 @@
 
 Curated articles and papers about technology
 
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+
 ### Modern Data Platform
 
 - [How Doordash is scaling its data platform](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/)
