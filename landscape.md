@@ -21,10 +21,19 @@ This landscape is intended as a map to explore open source urban computing proje
 - [AnypointMQ](https://docs.mulesoft.com/mq/)
 - [Oracle Tuxedo Message Queue](https://docs.oracle.com/cd/E35855_01/otmq/docs12c/overview/overview.html)
 - [Oracle Event Hub Cloud Service](https://docs.oracle.com/en/cloud/paas/event-hub-cloud/index.html)
-
+- [DistributedLog](http://bookkeeper.apache.org/distributedlog/)
 
 ### Stream Processing
 - [Apache Flink](https://flink.apache.org/)
+- [Apache Samza]()
+- [Apache Spark]()
+- [Apache Storm]()
+- [Apache Beam]()
+- [Azure Stream Analytics]()
+- [Hazelcast Jet]()
+- [Kafka Streams]()
+- [Onyx]()
+- [Siddhi]()
 
 ### Batch Processing 
 - [DBT](getdbt.com)
@@ -52,5 +61,3 @@ This landscape is intended as a map to explore open source urban computing proje
 
 ### SASS
 - [Data Bricks](https://databricks.com/)
-
-
