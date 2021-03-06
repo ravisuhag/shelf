@@ -3,7 +3,7 @@
 This landscape is intended as a map to explore open source urban computing projects, and lists the members of the Urban Computing Foundation
 
 
-### Event Streams
+## Event Streams
 - [Apache Kafka](https://kafka.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
@@ -23,7 +23,7 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Oracle Event Hub Cloud Service](https://docs.oracle.com/en/cloud/paas/event-hub-cloud/index.html)
 - [DistributedLog](http://bookkeeper.apache.org/distributedlog/)
 
-### Stream Processing
+## Stream Processing
 - [Apache Flink](https://flink.apache.org/)
 - [Apache Samza]()
 - [Apache Spark]()
@@ -35,18 +35,18 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Onyx]()
 - [Siddhi]()
 
-### Batch Processing 
+## Batch Processing 
 - [DBT](getdbt.com)
 - [Dataform](https://dataform.co/)
 
-### Data Warehouses
+## Data Warehouses
 - [Big Query]()
 - []
 
-### Data Lakes
+## Data Lakes
 - [Google Cloud Storage]()
 
-### Feature Stores
+## Feature Stores
 - [Hopsworks](https://github.com/logicalclocks/hopsworks)
 - [Michelangelo](https://eng.uber.com/michelangelo-model-representation/)
 - [Feast](https://github.com/gojek/feast)
@@ -55,9 +55,41 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Metaflow](https://www.youtube.com/watch?v=fOSZuONmLbA&feature=youtu.be)
 - [Ignuazio Fature Store](https://www.iguazio.com/featurestore/)
 
-### Data Management
+## Data Management
 - [Amundsen]()
 - [Databook]()
 
-### SASS
+## SASS
 - [Data Bricks](https://databricks.com/)
+
+
+## Misc
+
+- [Data Version Control](https://dvc.org/doc) 
+- [Great Expectations](https://greatexpectations.io/)
+- [https://quiltdata.com/](https://quiltdata.com/)
+- [https://www.immuta.com/](https://www.immuta.com/)
+- [https://satoricyber.com](https://satoricyber.com) 
+- [https://docs.n8n.io/](https://docs.n8n.io/)
+- Nestjs
+- [https://www.datafold.com/](https://www.datafold.com/)
+- [https://www.montecarlodata.com/](https://www.montecarlodata.com/)
+- [https://databand.ai/](https://databand.ai/)
+- [https://www.bigeye.com/](https://www.bigeye.com/)
+- [https://github.com/tokern](https://github.com/tokern)
+- [https://kedro.readthedocs.io/en/stable/](https://kedro.readthedocs.io/en/stable/)
+- [https://www.stardog.com/platform/](https://www.stardog.com/platform/)
+- [https://www.anomalo.com/](https://www.anomalo.com/)
+- [https://arize.com/](https://arize.com/)
+- [https://docs.airbyte.io/](https://docs.airbyte.io/)
+- [dbt]()
+- [Airflow]()
+- [Superset]()
+- [Dagster]()
+- [Trino]()
+- [Prefect]()
+- [Great Expectations]()
+- [Spark]()
+- [Amundsen]()
+- https://www.activeloop.ai/
+- https://dataframe.ai/
