@@ -2,6 +2,7 @@
 
 Curated articles and papers about technology.
 
-- [Engineering Blogs](/blogs.md)
-- [Data Engineering](/data.md)
-- [Data Engineering](/stockfree/README.md)
+- [Books](/books)
+- [Blogs](/blogs)
+- [Landscape](/landscape)
+- [Stockfree](/stockfree)
