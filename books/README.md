@@ -4,9 +4,7 @@ List of some all time favourite books.
 
 ## Fundamentals
 * [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
-
-## Distributed Systems
-* [I ❤ Logs](https://www.goodreads.com/book/show/23237460-i-heart-logs)
+* [I Heart Logs](https://www.goodreads.com/book/show/23237460-i-heart-logs)
 * [Database Internals](https://www.goodreads.com/book/show/44647144-database-internals)
 * [Graph Databases](https://www.goodreads.com/book/show/17465372-graph-databases)
 * [Time Series Databases](https://www.goodreads.com/book/show/24676101-time-series-databases)
