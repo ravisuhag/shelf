@@ -2,6 +2,10 @@
 
 This landscape is intended as a map to explore open source urban computing projects, and lists the members of the Urban Computing Foundation
 
+# Identity 
+- [Ory](https://www.ory.sh/)
+- [Casbin](https://casbin.org/)
+- [OPA](https://www.openpolicyagent.org/)
 
 ## Event Streams
 - [Apache Kafka](https://kafka.apache.org/)
@@ -12,15 +16,6 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Apache RocketMQ](https://rocketmq.apache.org/)
 - [Nats](https://nats.io/)
 - [Gazette](https://gazette.readthedocs.io/en/latest/)
-- [Google Pub/Sub](https://cloud.google.com/pubsub)
-- [Amazon Kinesis](https://aws.amazon.com/kinesis/)
-- [Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
-- [IBM MQ](https://www.ibm.com/products/mq)
-- [Solace PubSub+](https://solace.com/products/event-broker/software/)
-- [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq)
-- [AnypointMQ](https://docs.mulesoft.com/mq/)
-- [Oracle Tuxedo Message Queue](https://docs.oracle.com/cd/E35855_01/otmq/docs12c/overview/overview.html)
-- [Oracle Event Hub Cloud Service](https://docs.oracle.com/en/cloud/paas/event-hub-cloud/index.html)
 - [DistributedLog](http://bookkeeper.apache.org/distributedlog/)
 
 ## Stream Processing
@@ -93,3 +88,5 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Amundsen]()
 - https://www.activeloop.ai/
 - https://dataframe.ai/
+
+
