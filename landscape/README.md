@@ -1,8 +1,8 @@
 # Modern Data Stack
 
-This landscape is intended as a map to explore open source urban computing projects, and lists the members of the Urban Computing Foundation
+This landscape is intended as a map to explore open source data projects.
 
-# Identity 
+# Identity Management
 - [Ory](https://www.ory.sh/)
 - [Casbin](https://casbin.org/)
 - [OPA](https://www.openpolicyagent.org/)
@@ -34,10 +34,6 @@ This landscape is intended as a map to explore open source urban computing proje
 - [DBT](getdbt.com)
 - [Dataform](https://dataform.co/)
 
-## Data Warehouses
-- [Big Query]()
-- []
-
 ## Data Lakes
 - [Google Cloud Storage]()
 
@@ -54,28 +50,17 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Amundsen]()
 - [Databook]()
 
-## SASS
-- [Data Bricks](https://databricks.com/)
-
 
 ## Misc
 
 - [Data Version Control](https://dvc.org/doc) 
 - [Great Expectations](https://greatexpectations.io/)
-- [https://quiltdata.com/](https://quiltdata.com/)
-- [https://www.immuta.com/](https://www.immuta.com/)
-- [https://satoricyber.com](https://satoricyber.com) 
 - [https://docs.n8n.io/](https://docs.n8n.io/)
 - Nestjs
-- [https://www.datafold.com/](https://www.datafold.com/)
-- [https://www.montecarlodata.com/](https://www.montecarlodata.com/)
-- [https://databand.ai/](https://databand.ai/)
-- [https://www.bigeye.com/](https://www.bigeye.com/)
+
 - [https://github.com/tokern](https://github.com/tokern)
 - [https://kedro.readthedocs.io/en/stable/](https://kedro.readthedocs.io/en/stable/)
-- [https://www.stardog.com/platform/](https://www.stardog.com/platform/)
-- [https://www.anomalo.com/](https://www.anomalo.com/)
-- [https://arize.com/](https://arize.com/)
+
 - [https://docs.airbyte.io/](https://docs.airbyte.io/)
 - [dbt]()
 - [Airflow]()
@@ -86,7 +71,5 @@ This landscape is intended as a map to explore open source urban computing proje
 - [Great Expectations]()
 - [Spark]()
 - [Amundsen]()
-- https://www.activeloop.ai/
-- https://dataframe.ai/
 
 
