@@ -1,14 +1,16 @@
-# Blogs
+<p align="center"><img src="https://bit.ly/3x6qViA" width="550"></p>
 
-- [Twitter](https://blog.twitter.com/engineering/en_us.html)
-- [Netflix](https://netflixtechblog.com/?gi=897568af33e8)
-- [Uber](https://eng.uber.com/)
-- [Doordash](https://doordash.engineering/)
-- [Segment](https://segment.com/blog/engineering/)
-- [Dropbox](https://dropbox.tech/)
-- [Spotify](https://engineering.atspotify.com/)
-- [Medium](https://medium.engineering/)
-- [Facebook](https://engineering.fb.com/)
+## Blogs
+
+- [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
+- [Netflix Engineering](https://netflixtechblog.com/?gi=897568af33e8)
+- [Uber Engineering](https://eng.uber.com/)
+- [Doordash Engineering](https://doordash.engineering/)
+- [Segment Engineering](https://segment.com/blog/engineering/)
+- [Dropbox Engineering](https://dropbox.tech/)
+- [Spotify Engineering](https://engineering.atspotify.com/)
+- [Medium Engineering](https://medium.engineering/)
+- [Facebook Engineering](https://engineering.fb.com/)
 
 ## Culture
 
