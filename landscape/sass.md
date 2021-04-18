@@ -25,6 +25,12 @@ This landscape is intended as a map to explore sass platform around data.
 - [Satori Cyber](https://satoricyber.com) 
 - [Data Frame](https://dataframe.ai/)
 
-
 ## Data Warehouses
 - [Big Query]()
+
+## ML Platform
+- [Arize](https://arize.com/)
+- [Active Loop](https://www.activeloop.ai/)
+
+## Customer Data Platform
+- [Synerise](https://synerise.com/)

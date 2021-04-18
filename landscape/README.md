@@ -2,12 +2,14 @@
 
 This landscape is intended as a map to explore open source data projects.
 
-# Identity Management
+## Identity Management
+
 - [Ory](https://www.ory.sh/)
 - [Casbin](https://casbin.org/)
 - [OPA](https://www.openpolicyagent.org/)
 
 ## Event Streams
+
 - [Apache Kafka](https://kafka.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
@@ -18,7 +20,8 @@ This landscape is intended as a map to explore open source data projects.
 - [Gazette](https://gazette.readthedocs.io/en/latest/)
 - [DistributedLog](http://bookkeeper.apache.org/distributedlog/)
 
-## Stream Processing
+## Data Processing
+
 - [Apache Flink](https://flink.apache.org/)
 - [Apache Samza]()
 - [Apache Spark]()
@@ -30,40 +33,58 @@ This landscape is intended as a map to explore open source data projects.
 - [Onyx]()
 - [Siddhi]()
 
-## Batch Processing 
+## Workflow Management 
+
 - [DBT](getdbt.com)
 - [Dataform](https://dataform.co/)
-
-## Data Lakes
-- [Google Cloud Storage]()
-
-## Feature Stores
-- [Hopsworks](https://github.com/logicalclocks/hopsworks)
-- [Michelangelo](https://eng.uber.com/michelangelo-model-representation/)
-- [Feast](https://github.com/gojek/feast)
-- [Conde Nast](https://technology.condenast.com/story/accelerating-machine-learning-with-the-feature-store-service)
-- [Zipline](https://www.topbots.com/zipline-data-management-framework-by-airbnb/)
-- [Metaflow](https://www.youtube.com/watch?v=fOSZuONmLbA&feature=youtu.be)
-- [Ignuazio Fature Store](https://www.iguazio.com/featurestore/)
+- [Dagster]()
+- [Airflow]()
 
 ## Data Management
+
 - [Amundsen]()
 - [Databook]()
+- [Apache Atlas]()
 
+## Data Governance
+
+- [Tokern](https://github.com/tokern)
+
+
+## Data Integration
+
+- [Airbyte](https://docs.airbyte.io/)
+
+## Feature Stores
+
+- [Hopsworks](https://github.com/logicalclocks/hopsworks)
+- [Feast](https://github.com/gojek/feast)
+
+## Observability
+
+- [Alerta](http://alerta.io)
+- [Great Expectations](https://greatexpectations.io/)
+
+## Open Data
+
+- [Quiltdata](https://quiltdata.com/)
 
 ## Misc
 
 - [Data Version Control](https://dvc.org/doc) 
-- [Great Expectations](https://greatexpectations.io/)
+
 - [https://docs.n8n.io/](https://docs.n8n.io/)
 - Nestjs
+https://steampipe.io/
+https://materialize.com/
 
-- [https://github.com/tokern](https://github.com/tokern)
+
+
+
 - [https://kedro.readthedocs.io/en/stable/](https://kedro.readthedocs.io/en/stable/)
 
 - [https://docs.airbyte.io/](https://docs.airbyte.io/)
-- [dbt]()
-- [Airflow]()
+
 - [Superset]()
 - [Dagster]()
 - [Trino]()
