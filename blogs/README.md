@@ -14,50 +14,37 @@
 
 ## Culture
 
-- [How Apple is organized for innovation](https://hbr.org/2020/11/how-apple-is-organized-for-innovation)
-
-## Culture
-
 - [Obvious Engineering Handbook](https://engineering.obvious.in/)
 - [Gitlab Handbook](https://about.gitlab.com/handbook/)
+- [The trap of amateur senior](https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/)
+- [A team everyone is a leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/amp/)
+- [Brag document](https://jvns.ca/blog/brag-documents/#template)
+- [How Apple is organized for innovation](https://hbr.org/2020/11/how-apple-is-organized-for-innovation)
 
-## Practices
+## Principles
 
 - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - [AWS well-architected](https://aws.amazon.com/architecture/well-architected) 
 - [Architecture behind one man startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-
-## Principles
-
 - [Building a platform team](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654) 
 - [What is data engineering](https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af)
 - [Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg&t=14s) 
 - [Engineers shouldn’t write ETLs](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Data pipelines design principles](https://towardsdatascience.com/data-pipeline-design-principles-e7fbba070b4a)
 
-## **Scorecard**
+## Identity 
 
-- [Data Engineering Scorecard](https://medium.com/@sandeepu/the-chief-data-officers-scorecard-for-digital-transformation-a030c86d667c)
-- [Scorecard of data analytics platform](https://medium.com/wrong-ml/scorecard-of-a-data-platform-for-analytics-ml-97d0a24b907a)
-- [CDO Scorecard](https://www.sap.com/docs/download/cmp/2017/05/sap-cdo-scorecard.pdf)
-- [HEART Framework](https://www.dtelepathy.com/ux-metrics/#happiness)
+- [OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0)
 
-## **Team Management**
+## Devops
+- [Infra monitoring at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
 
-- [The trap of amateur senior](https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/)
-- [A team everyone is a leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/amp/)
-- [Brag document](https://jvns.ca/blog/brag-documents/#template)
-
-## Data Architectures
-
+## DataOps
 - [Explaning event driven](https://www.youtube.com/watch?v=QxZTTVpJUk0)
 - [Data monolith to data mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Data Mesh Architecture](https://www.youtube.com/watch?v=52MCFe4v0UU)
 - [Data Mesh Principles](https://martinfowler.com/articles/data-mesh-principles.html) 
-
-## Modern Data Platform
-
 - [How Doordash is scaling its data platform](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/)
 - [Emerging Architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [How to build data platform like a product](https://www.montecarlodata.com/how-to-build-your-data-platform-like-a-product/)
@@ -66,15 +53,40 @@
 - [Modern unified data architecture](https://towardsdatascience.com/modern-unified-data-architecture-38182304afcc) 
 - [The future of data engineering](https://riccomini.name/future-data-engineering)
 - [Datum 360 platform](https://www.datum360.com/platform)
+- [Google cloud data governance](https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-governance) 
+- [In-house data discovery platforms](https://datastrategy.substack.com/p/in-house-data-discovery-platforms)
+- [Data discovery platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
+- [Fundamentals of data catalog](https://cloud.google.com/blog/products/data-analytics/cloud-metadata-management-tagging-tips)
+- [Auto-tagging in the data catalog](https://cloud.google.com/blog/products/data-analytics/best-practices-for-bulk-ingestion-of-metadata-to-cloud-data-catalog)
+- [Goods: Organising Google’s datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45390.pdf)
+- [Satori Data access management](https://satoricyber.com/data-protect-guide/chapter-4-data-access-control/)
+- [Google data catalog and on-prem RDMBs](https://medium.com/google-cloud/google-cloud-data-catalog-integrate-your-on-prem-rdbms-metadata-468e0d8220fb)
+- [Essential features of data catalog](https://medium.com/ataccama/essential-features-of-data-catalogs-22bcdcf0d106)
+- [Cloud data access control](https://www.immuta.com/solutions/multi-cloud-governance-platform/)
+- [Ground: Data context service](http://cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf)
+- [Datahub architecture](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained) 
+- [Kafka data masking](https://www.confluent.io/blog/kafka-data-privacy-security-and-compliance/)
+- [What is data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e) 
+- [Uber: uMetric](https://eng.uber.com/umetric/)
+- [Airbnb: Democratizing Metric Definition and Discovery](https://www.youtube.com/watch?v=rpgBge-qJnM)
 
-
-## Machine Learning Platform
-
+## MLOps
+- [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
 - [DoorDash’s ML Platform - The Beginning ](https://doordash.engineering/2020/04/23/doordash-ml-platform-the-beginning/)
 - [GCP MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [Data Lifecycle GCP](https://cloud.google.com/solutions/data-lifecycle-cloud-platform#ingest)
 - [CI-CD for machine learning](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
 
+## FinOps
+- [GCP financial governance](https://cloud.google.com/files/guide-to-financial-governance.pdf)
+- [Enterprise Budgeting](https://medium.com/@nutanix/enterprise-budgeting-a-every-cfos-success-formula-in-cloud-6a60e4aced73)
+
+## **Measure**
+
+- [Data Engineering Scorecard](https://medium.com/@sandeepu/the-chief-data-officers-scorecard-for-digital-transformation-a030c86d667c)
+- [Scorecard of data analytics platform](https://medium.com/wrong-ml/scorecard-of-a-data-platform-for-analytics-ml-97d0a24b907a)
+- [CDO Scorecard](https://www.sap.com/docs/download/cmp/2017/05/sap-cdo-scorecard.pdf)
+- [HEART Framework](https://www.dtelepathy.com/ux-metrics/#happiness)
 
 ## **Customer Data Platform** 
 
@@ -83,7 +95,6 @@
 - [Adobe experience platform](https://www.adobe.com/experience-platform.html#)
 - [Exponea CDP](https://exponea.com/blog/customer-data-platform/)
 - [Customer data platform guide](https://www.treasuredata.com/customer-data-platform-guide/)
-
 
 ## Experimentation Platform
 
@@ -131,35 +142,3 @@
 - [Facebook: Planout](https://facebook.github.io/planout/)
 - [LucidChart: The fatal flaw of AB testing peeking](https://www.lucidchart.com/blog/the-fatal-flaw-of-ab-tests-peeking)
 - [Don’t use Bandit Algorithms](https://www.chrisstucchio.com/blog/2015/dont_use_bandits.html)
-
-## Feature Stores
-- [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
-
-## Metric Framework 
-- [Uber: uMetric](https://eng.uber.com/umetric/)
-- [Airbnb: Democratizing Metric Definition and Discovery](https://www.youtube.com/watch?v=rpgBge-qJnM)
-
-## Costing
-- [GCP financial governance](https://cloud.google.com/files/guide-to-financial-governance.pdf)
-- [Enterprise Budgeting](https://medium.com/@nutanix/enterprise-budgeting-a-every-cfos-success-formula-in-cloud-6a60e4aced73)
-
-## Data Management
-- [Google cloud data governance](https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-governance) 
-- [In-house data discovery platforms](https://datastrategy.substack.com/p/in-house-data-discovery-platforms)
-- [Data discovery platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
-- [Fundamentals of data catalog](https://cloud.google.com/blog/products/data-analytics/cloud-metadata-management-tagging-tips)
-- [Auto-tagging in the data catalog](https://cloud.google.com/blog/products/data-analytics/best-practices-for-bulk-ingestion-of-metadata-to-cloud-data-catalog)
-- [Goods: Organising Google’s datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45390.pdf)
-- [Satori Data access management](https://satoricyber.com/data-protect-guide/chapter-4-data-access-control/)
-- [Google data catalog and on-prem RDMBs](https://medium.com/google-cloud/google-cloud-data-catalog-integrate-your-on-prem-rdbms-metadata-468e0d8220fb)
-- [Essential features of data catalog](https://medium.com/ataccama/essential-features-of-data-catalogs-22bcdcf0d106)
-- [Cloud data access control](https://www.immuta.com/solutions/multi-cloud-governance-platform/)
-- [Ground: Data context service](http://cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf)
-- [Datahub architecture](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained) 
-
-## Data Governance
-- [Kafka data masking](https://www.confluent.io/blog/kafka-data-privacy-security-and-compliance/)
-
-## Data Observability
-- [What is data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e) 
-- [Infra monitoring at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
