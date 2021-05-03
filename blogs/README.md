@@ -23,6 +23,7 @@
 
 ## Principles
 
+- [Nuts bolts of building a platform team](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/)
 - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
 - [AWS well-architected](https://aws.amazon.com/architecture/well-architected) 
 - [Architecture behind one man startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
@@ -67,8 +68,6 @@
 - [Datahub architecture](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained) 
 - [Kafka data masking](https://www.confluent.io/blog/kafka-data-privacy-security-and-compliance/)
 - [What is data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e) 
-- [Uber: uMetric](https://eng.uber.com/umetric/)
-- [Airbnb: Democratizing Metric Definition and Discovery](https://www.youtube.com/watch?v=rpgBge-qJnM)
 
 ## MLOps
 - [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
@@ -76,6 +75,12 @@
 - [GCP MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [Data Lifecycle GCP](https://cloud.google.com/solutions/data-lifecycle-cloud-platform#ingest)
 - [CI-CD for machine learning](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
+
+## MetricOps
+- [7 traits of modern metric stack](https://blog.falkon.ai/the-7-traits-of-a-modern-metrics-stack-15403d488318)
+- [Airbnb: Democratizing Metric Definition and Discovery](https://www.youtube.com/watch?v=rpgBge-qJnM)
+- [How Airbnb achieved metric consistency at scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
+- [Uber: uMetric](https://eng.uber.com/umetric/)
 
 ## FinOps
 - [GCP financial governance](https://cloud.google.com/files/guide-to-financial-governance.pdf)
