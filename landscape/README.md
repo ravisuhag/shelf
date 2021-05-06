@@ -2,6 +2,10 @@
 
 This landscape is intended as a map to explore open source data projects.
 
+## Infrastructure Automation
+- [Crossplane](https://crossplane.io/)
+- [Pulumi](https://www.pulumi.com/)
+
 ## Identity Management
 
 - [Ory](https://www.ory.sh/)
