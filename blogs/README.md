@@ -75,6 +75,7 @@
 - [GCP MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [Data Lifecycle GCP](https://cloud.google.com/solutions/data-lifecycle-cloud-platform#ingest)
 - [CI-CD for machine learning](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
+- [ML Feature serving infra at Lfyt](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
 
 ## MetricOps
 - [7 traits of modern metric stack](https://blog.falkon.ai/the-7-traits-of-a-modern-metrics-stack-15403d488318)
