@@ -36,6 +36,7 @@ This landscape is intended as a map to explore open source data projects.
 - [Kafka Streams]()
 - [Onyx]()
 - [Siddhi]()
+- [StremX](https://github.com/streamxhub/streamx)
 
 ## Workflow Management 
 
@@ -54,10 +55,11 @@ This landscape is intended as a map to explore open source data projects.
 
 - [Tokern](https://github.com/tokern)
 
-
 ## Data Integration
 
 - [Airbyte](https://docs.airbyte.io/)
+- [Rudder Stack](https://rudderstack.com/)
+- [Steam Pipe](https://steampipe.io/)
 
 ## Feature Stores
 
@@ -66,35 +68,20 @@ This landscape is intended as a map to explore open source data projects.
 
 ## Observability
 
+- [Opstrace](https://opstrace.com/)
 - [Alerta](http://alerta.io)
 - [Great Expectations](https://greatexpectations.io/)
-
-## Open Data
-
-- [Quiltdata](https://quiltdata.com/)
+- [SigNoz](https://signoz.io/)
 
 ## Misc
 
-- [Data Version Control](https://dvc.org/doc) 
-
+- [Data Version Control](https://dvc.org/doc)
 - [https://docs.n8n.io/](https://docs.n8n.io/)
-- Nestjs
-https://steampipe.io/
-https://materialize.com/
-
-
-
-
+- [Nestjs]
+- [](https://materialize.com/)
 - [https://kedro.readthedocs.io/en/stable/](https://kedro.readthedocs.io/en/stable/)
-
-- [https://docs.airbyte.io/](https://docs.airbyte.io/)
-
 - [Superset]()
-- [Dagster]()
 - [Trino]()
 - [Prefect]()
-- [Great Expectations]()
-- [Spark]()
-- [Amundsen]()
 
 

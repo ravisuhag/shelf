@@ -18,6 +18,7 @@ This landscape is intended as a map to explore sass platform around data.
 - [Dataframe](https://dataframe.ai/) - Workspace for data analysts
 - [Transform](https://transformdata.io/) - Source of truth for key metrics
 - [Falkon](https://falkon.ai/) - Visibility into business health 
+- [Accel Data](https://www.acceldata.io/) - Data observability for enterprise
 
 ## MLOps
 - [Tecton](https://tecton.ai) - Enterprise feature store
