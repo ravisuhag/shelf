@@ -25,36 +25,38 @@
 
 - [Nuts bolts of building a platform team](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/)
 - [Scaling with common sense](https://zerodha.tech/blog/scaling-with-common-sense/)
-- [AWS well-architected](https://aws.amazon.com/architecture/well-architected) 
+- [AWS well-architected](https://aws.amazon.com/architecture/well-architected)
 - [Architecture behind one man startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
-- [Building a platform team](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654) 
+- [Building a platform team](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654)
 - [What is data engineering](https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af)
-- [Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg&t=14s) 
+- [Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg&t=14s)
 - [Engineers shouldn’t write ETLs](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 - [Data pipelines design principles](https://towardsdatascience.com/data-pipeline-design-principles-e7fbba070b4a)
 
-## Identity 
+## Identity
 
 - [OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0)
 
 ## Devops
+
 - [Infra monitoring at Zerodha](https://zerodha.tech/blog/infra-monitoring-at-zerodha/)
 
 ## DataOps
+
 - [Explaning event driven](https://www.youtube.com/watch?v=QxZTTVpJUk0)
 - [Data monolith to data mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Data Mesh Architecture](https://www.youtube.com/watch?v=52MCFe4v0UU)
-- [Data Mesh Principles](https://martinfowler.com/articles/data-mesh-principles.html) 
+- [Data Mesh Principles](https://martinfowler.com/articles/data-mesh-principles.html)
 - [How Doordash is scaling its data platform](https://doordash.engineering/2020/09/25/how-doordash-is-scaling-its-data-platform/)
 - [Emerging Architectures for modern data infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [How to build data platform like a product](https://www.montecarlodata.com/how-to-build-your-data-platform-like-a-product/)
 - [Modern data platform](https://www.risual.com/2019/02/modern-data-platform-vision/)
 - [Vision of Netflix data platform](https://www.linkedin.com/pulse/our-vision-reliable-netflix-data-platform-eva-tse)
-- [Modern unified data architecture](https://towardsdatascience.com/modern-unified-data-architecture-38182304afcc) 
+- [Modern unified data architecture](https://towardsdatascience.com/modern-unified-data-architecture-38182304afcc)
 - [The future of data engineering](https://riccomini.name/future-data-engineering)
 - [Datum 360 platform](https://www.datum360.com/platform)
-- [Google cloud data governance](https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-governance) 
+- [Google cloud data governance](https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-governance)
 - [In-house data discovery platforms](https://datastrategy.substack.com/p/in-house-data-discovery-platforms)
 - [Data discovery platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
 - [Fundamentals of data catalog](https://cloud.google.com/blog/products/data-analytics/cloud-metadata-management-tagging-tips)
@@ -65,25 +67,29 @@
 - [Essential features of data catalog](https://medium.com/ataccama/essential-features-of-data-catalogs-22bcdcf0d106)
 - [Cloud data access control](https://www.immuta.com/solutions/multi-cloud-governance-platform/)
 - [Ground: Data context service](http://cidrdb.org/cidr2017/papers/p111-hellerstein-cidr17.pdf)
-- [Datahub architecture](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained) 
+- [Datahub architecture](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Kafka data masking](https://www.confluent.io/blog/kafka-data-privacy-security-and-compliance/)
-- [What is data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e) 
+- [What is data observability](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 
 ## MLOps
+
 - [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
 - [DoorDash’s ML Platform - The Beginning ](https://doordash.engineering/2020/04/23/doordash-ml-platform-the-beginning/)
 - [GCP MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [Data Lifecycle GCP](https://cloud.google.com/solutions/data-lifecycle-cloud-platform#ingest)
 - [CI-CD for machine learning](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
 - [ML Feature serving infra at Lfyt](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
+- [ML model training at Lfyt](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb)
 
 ## MetricOps
+
 - [7 traits of modern metric stack](https://blog.falkon.ai/the-7-traits-of-a-modern-metrics-stack-15403d488318)
 - [Airbnb: Democratizing Metric Definition and Discovery](https://www.youtube.com/watch?v=rpgBge-qJnM)
 - [How Airbnb achieved metric consistency at scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
 - [Uber: uMetric](https://eng.uber.com/umetric/)
 
 ## FinOps
+
 - [GCP financial governance](https://cloud.google.com/files/guide-to-financial-governance.pdf)
 - [Enterprise Budgeting](https://medium.com/@nutanix/enterprise-budgeting-a-every-cfos-success-formula-in-cloud-6a60e4aced73)
 
@@ -94,7 +100,7 @@
 - [CDO Scorecard](https://www.sap.com/docs/download/cmp/2017/05/sap-cdo-scorecard.pdf)
 - [HEART Framework](https://www.dtelepathy.com/ux-metrics/#happiness)
 
-## **Customer Data Platform** 
+## **Customer Data Platform**
 
 - [Features of a CDP](https://medium.com/analytics-and-data/customer-data-platform-what-features-makes-for-a-great-cdp-74227bc4d028)
 - [CDP Segmentation](https://medium.com/analytics-and-data/dissecting-a-cdps-segmentation-engine-9858ed49205b)
@@ -114,9 +120,9 @@
 - [Twitter: What and why of XP](https://blog.twitter.com/engineering/en_us/a/2015/the-what-and-why-of-product-experimentation-at-twitter-0.html)
 - [Twitter: Experimentation technical overview](https://blog.twitter.com/engineering/en_us/a/2015/twitter-experimentation-technical-overview.html)
 - [Twitter: Detecting and avoiding bucket imbalance](https://blog.twitter.com/engineering/en_us/a/2015/detecting-and-avoiding-bucket-imbalance-in-ab-tests.html)
-- [Netflix: Experimentation platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) 
-- [Netflix: Experimentation Analysis](https://netflixtechblog.com/reimagining-experimentation-analysis-at-netflix-71356393af21) 
-- [Netflix: Mathematical engineering](https://netflixtechblog.com/design-principles-for-mathematical-engineering-in-experimentation-platform-15b3ea143b1f) 
+- [Netflix: Experimentation platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)
+- [Netflix: Experimentation Analysis](https://netflixtechblog.com/reimagining-experimentation-analysis-at-netflix-71356393af21)
+- [Netflix: Mathematical engineering](https://netflixtechblog.com/design-principles-for-mathematical-engineering-in-experimentation-platform-15b3ea143b1f)
 - [Netflix: Engineering for a science-centric XP platform](https://www.youtube.com/watch?v=nj8TwlCR8XU)
 - [Netflix: XP paper](https://arxiv.org/pdf/1910.03878.pdf)
 - [Netflix: Interleaving in online experiments](https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
@@ -124,22 +130,22 @@
 - [Grab: large scale data capture](https://www.slideshare.net/RomanAtachiants/large-scale-data-capture-and-experimentation-platform-at-grab)
 - [Grab: scaling experimentation](https://www.slideshare.net/RomanAtachiants/scaling-experimentation-data-capture-at-grab?next_slideshow=1)
 - [Grab: feature toggles](https://engineering.grab.com/feature-toggles-ab-testing)
-- [Pinterest: Experimentation platform](https://medium.com/pinterest-engineering/building-pinterests-a-b-testing-platform-ab4934ace9f4) 
+- [Pinterest: Experimentation platform](https://medium.com/pinterest-engineering/building-pinterests-a-b-testing-platform-ab4934ace9f4)
 - [Pinterest: Experimentation Analysis](https://www.ververica.com/blog/real-time-experiment-analytics-at-pinterest-using-apache-flink)
-- [Uber: Intelligent Experimentation](https://eng.uber.com/experimentation-platform/) 
-- [Uber: XP - Under the hood](https://eng.uber.com/xp/) 
+- [Uber: Intelligent Experimentation](https://eng.uber.com/experimentation-platform/)
+- [Uber: XP - Under the hood](https://eng.uber.com/xp/)
 - [Uber: BYOM](https://conferences.oreilly.com/strata/strata-ny-2018/cdn.oreillystatic.com/en/assets/1/event/278/A_B%20testing%20at%20Uber_%20How%20we%20built%20a%20BYOM%20_bring%20your%20own%20metrics_%20platform%20Presentation.pdf)
 - [Doordash: Switchback experimentation intro](https://doordash.engineering/2019/02/20/experiment-rigor-for-switchback-experiment-analysis/)
 - [Doordash: Switchback experimentation](https://medium.com/@DoorDash/switchback-tests-and-randomized-experimentation-under-network-effects-at-doordash-f1d938ab7c2a)
 - [Doordash: Experiment analysis](https://doordash.engineering/2020/09/09/experimentation-analysis-platform-mvp/)
-- [Spotify: EXP Part 1](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/) 
+- [Spotify: EXP Part 1](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
 - [Spotify: EXP Part 2](https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/)
 - [Spotify: Using click house for experimentation](https://www.slideshare.net/glebus/using-clickhouse-for-experimentation-104247173)
 - [Linkedin: AB Testing](https://content.linkedin.com/content/dam/engineering/site-assets/pdfs/ABTestingSocialNetwork_share.pdf)
-- [Linkedin: Making XP engine faster](https://engineering.linkedin.com/blog/2020/making-the-linkedin-experimentation-engine-20x-faster) 
+- [Linkedin: Making XP engine faster](https://engineering.linkedin.com/blog/2020/making-the-linkedin-experimentation-engine-20x-faster)
 - [Paypal: Democratizing experimentation](https://medium.com/paypal-engineering/democratizing-experimentation-data-for-product-innovations-8b6e1cf40c27)
 - [Stitchfix: Significant samples](https://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)
-- [Stitchfix: Exp with resource constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/) 
+- [Stitchfix: Exp with resource constraints](https://multithreaded.stitchfix.com/blog/2020/11/18/virtual-warehouse/)
 - [Stitchfix: Large scale experimentation](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
 - [Stitchfix: Building exp platform](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
 - [Optimizely: New stats engine](https://blog.optimizely.com/2015/01/20/statistics-for-the-internet-age-the-story-behind-optimizelys-new-stats-engine/)
